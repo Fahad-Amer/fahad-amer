@@ -1,3 +1,0 @@
-# Read more 
-
-This a page where you can read more...
