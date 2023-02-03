@@ -1,5 +1,3 @@
-# [fahad-amer.github.io]
-
 
 ### Hi there 👋
 
