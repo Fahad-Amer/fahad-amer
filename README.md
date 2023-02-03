@@ -1,4 +1,4 @@
-# [fahad.github.io](https://fahadamer.github.io/fahad.github.io/)
+# [fahad-amer.github.io]
 
 
 ### Hi there 👋
