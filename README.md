@@ -13,6 +13,8 @@ Thank you!
 
 [Articles](/articles)
 
+[Beställ](/beställ)
+
 [Thanks](/thank-you)
 
 [Purchase complete](/purchase-complete)
