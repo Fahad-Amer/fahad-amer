@@ -4,3 +4,5 @@ Take your coffee experience to the next level and start your day with a caffeine
 An enjoy barista quality coffee in the comfort of your own home.
 Our product range offers something for everyone so you can choose the right model to best suit your lifestyle.
 Select from leading brands such as Delonghi and Breville.
+
+[Order](/order)
