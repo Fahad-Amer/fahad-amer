@@ -13,6 +13,8 @@ Thank you!
 
 [Articles](/articles)
 
+[Article](/article)
+
 [Thanks](/thank-you)
 
 [Purchase complete](/purchase-complete)
