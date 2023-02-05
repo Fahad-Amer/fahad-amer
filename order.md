@@ -1,3 +1,5 @@
+## Best coffee machine
+
 Experience convenience and intuitive design. Enjoy high-quality coffee.
 cup after cup, at the touch of a button. We"’"re undoubtedly a nation of coffee lovers whether at home or on the go.
 Take your coffee experience to the next level and start your day with a caffeine injection by investing in one of our Nespresso coffee machines.
