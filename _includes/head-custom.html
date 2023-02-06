@@ -32,14 +32,26 @@ document.addEventListener("DOMContentLoaded", () => {
         readArticle1Button.addEventListener("click", () => {
             sendReadEvent("Article 1", 50, "Fahad Amer")
         });
+      // Skickar event vid klick på beställ 1
+        readArticle1Button.addEventListener("click", () => {
+            sendReadEvent("beställ 1", 50, "Fahad Amer")
+        });
         // Skickar event vid klick på artikel 2
         document.getElementById("read-article-2").addEventListener("click", () => {
             sendReadEvent("Article 2", 100, "Anna S")
+        });
+      // Skickar event vid klick på beställ 2
+        readArticle1Button.addEventListener("click", () => {
+            sendReadEvent("beställ 2", 50, "Fahad Amer")
         });
     
         // Skickar event vid klick på artikel 3
         document.getElementById("read-article-3").addEventListener("click", () => {
             sendReadEvent("Article 3", 150, "Maria S")
+        });
+      // Skickar event vid klick på beställ 3
+        readArticle1Button.addEventListener("click", () => {
+            sendReadEvent("beställ 3", 50, "Fahad Amer")
         });
     }
 });
