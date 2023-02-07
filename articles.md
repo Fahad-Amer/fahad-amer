@@ -4,7 +4,7 @@
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
-<button data-author="Author 1" data-title="Article 1" data-characters="50" class="read-article">Läst artikel 1</button>
+<button data-author="Author 1" data-title="Article 1" data-characters="50" class=[Beställ](/beställ)"read-article">Läst artikel 1</button>
 
 <button data-beställ="Beställ 1" data-title="Beställ 1" data-characters="150" class="beställ-coffee">Beställ</button>
 ## Article 2
