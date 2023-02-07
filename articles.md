@@ -6,6 +6,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 
 <button data-author="Author 1" data-title="Article 1" data-characters="50" class="read-article">Läst artikel 1</button>
+
 <button data-beställ="Beställ 1" data-title="Beställ 1" data-characters="150" class="beställ-coffee">Beställ</button>
 ## Article 2
 
